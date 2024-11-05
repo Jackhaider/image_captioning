@@ -1,0 +1,9 @@
+numpy
+pandas
+tensorflow
+keras
+pillow
+matplotlib
+nltk
+requests
+Flask

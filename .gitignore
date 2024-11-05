@@ -1,0 +1,11 @@
+# Ignore virtual environment
+venv/
+
+# Ignore checkpoints, logs, and temporary files
+*.log
+*.tmp
+.ipynb_checkpoints/
+
+# Ignore dataset or image folders if not needed in the repository
+data/
+models/
